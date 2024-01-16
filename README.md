@@ -30,8 +30,8 @@ The dataset used for training and evaluation is the "SMSSpamCollection" dataset,
 4. **Final Output**
   The final ouput will be as shown below:
 ![912](https://github.com/Disciplined-22/BERT_NLP_1/assets/129745308/ccca9c26-0416-4743-b050-9e35e6958089)
- 
-## confusion matrix
+
+**confusion matrix**
 1. True Negative (TN): 955
 2. False Positive (FP): 0
 3. False Negative (FN): 0
