@@ -23,7 +23,7 @@ The dataset used for training and evaluation is the "SMSSpamCollection" dataset,
 
    Click on the following link to open the notebook in Google Colab:
 
-   [Open in Colab - SMS Spam Classification with DistilBERT]('https://colab.research.google.com/drive/1Ql-coOWMxTZNpx5cPb-H_itxbAUrltMJ?usp=sharing')   <!-- replace # with the Colab notebook link -->
+   [Open in Colab - SMS Spam Classification with DistilBERT](https://colab.research.google.com/drive/1Ql-coOWMxTZNpx5cPb-H_itxbAUrltMJ?usp=sharing)   <!-- replace # with the Colab notebook link -->
 
 2. **Download the file and add it to folder section**
 3. **Run the code one by one in colab**
