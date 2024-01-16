@@ -15,10 +15,23 @@ The dataset used for training and evaluation is the "SMSSpamCollection" dataset,
 - Hugging Face Transformers
 - Other dependencies (specified in `requirements.txt`)
 
-## Installation
+## Usage
 
-1. Clone the repository:
+### Run in Google Colab
 
-   ```bash
-   git clone https://github.com/your-username/sms-spam-classification.git
-   cd sms-spam-classification
+1. **Open the Colab Notebook:**
+
+   Click on the following link to open the notebook in Google Colab:
+
+   [Open in Colab - SMS Spam Classification with DistilBERT](#)   <!-- replace # with the Colab notebook link -->
+
+2. **Download the file and add it to folder section**
+3. **Run the code one by one in colab**
+4. **Final Output**
+  The final ouput will be as shown below:
+![912](https://github.com/Disciplined-22/BERT_NLP_1/assets/129745308/ccca9c26-0416-4743-b050-9e35e6958089)
+
+True Negative (TN): 955
+False Positive (FP): 0
+False Negative (FN): 0
+True Positive (TP): 160
